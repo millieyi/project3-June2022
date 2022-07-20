@@ -1,3 +1,32 @@
 h1 {
     color: crimson;
 }
+
+.text {
+    color: aquamarine;
+    background-color: black;
+    text-align: center
+
+}
+
+.link {
+    color: black;
+    background-color: coral;
+}
+
+h1 {
+    color: black;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 60px;
+}
+
+.page {
+    color: aquamarine;
+}
+
+.ayo {
+    color: aquamarine;
+    background-color:  blueviolet;
+}
+
